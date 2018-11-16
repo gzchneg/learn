@@ -3,4 +3,6 @@ today  i have my girhub cangku
 haha
 
 
+<<<<<<< HEAD
 hehe
+xixi
